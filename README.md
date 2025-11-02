@@ -30,7 +30,7 @@ Kode Pemograman
 Output Program 
 
 Latihan 4
-![alt image](https://github.com/isnanqw/Tugas-Pemograman-p6/blob/3be03c81741e776d0c6926892185e1951d228aa0/Foto/latihan%206.1.png)
+![alt image](https://github.com/isnanqw/Tugas-Pemograman-p6/blob/ae4b0f0e3d3a2699e5f3beacc17575841e7e4bd5/Foto/latihan%206.2.png)
 Kode Pemograman 
 
 Output Program 
