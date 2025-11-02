@@ -18,7 +18,7 @@ Kode Pemograman
 Output Program 
 
 Latihan 2
-![alt image](https://github.com/isnanqw/Tugas-Pemograman-p7/blob/29c3f90fe834504e3a20aae6ce561ef00dd53a8a/foto/8Screenshot%202025-11-01%20234729.png)
+![alt image](https://github.com/isnanqw/Tugas-Pemograman-p6/blob/75534a6a98a5cab1b82ec4d085021b999412e00b/Foto/latihan%206.4.png)
 Kode Pemograman 
 
 Output Program 
