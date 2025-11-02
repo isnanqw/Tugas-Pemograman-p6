@@ -1,8 +1,30 @@
-# TUGAS-PEMOGRAMAN WEEK 6
+# Tugas-Pemograman-p6
+Halo semuanya terima kasih sudah mampir di github ini 
+
+Pada pertemuan kali ini kita akan membahas materi tentang if dan Else kode pemograman 
+
+Izin kan saya memperkenalkan diri 
+
 NAMA	: MAULANA ISNAN IBRAHIM
 
 NIM		: 312510355
 
-DOSEN	: Agung Nugroho, S.Kom., M.Kom.
+DOSEN	: Agung Nugroho, S.Kom., M.Kom. 
 
-KODE PEMOGRAMAN INI MENGENAI TENTANG IF DAN ELSE DI SAAT PEMOGRAMAN BERJALAN DAN INPUT ANGKA ACAK SERTA WHILE DAN FOR PEMOGRAMAN SEDERHANA TENTUKAN BILANGAN BESAR DAN URUTKAN BILANGAN DARI KECIL 
+Latihan 1
+![image alt](https://github.com/isnanqw/Tugas-Pemograman-p7/blob/3053668592be694e5b5a910890ff5d4bcf6609ce/9Screenshot%202025-11-01%20231317.png)
+Kode Pemograman 
+
+Output Program 
+
+Latihan 2
+![alt image](https://github.com/isnanqw/Tugas-Pemograman-p7/blob/29c3f90fe834504e3a20aae6ce561ef00dd53a8a/foto/8Screenshot%202025-11-01%20234729.png)
+Kode Pemograman 
+
+Output Program 
+
+Latihan 3
+![alt image](https://github.com/isnanqw/Tugas-Pemograman-p7/blob/cf033cbf66f248316d3fa7dd477630267ae95c65/foto/7Screenshot%202025-11-01%20235407.png)
+Kode Pemograman 
+
+Output Program 
