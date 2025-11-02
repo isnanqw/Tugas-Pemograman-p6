@@ -28,3 +28,9 @@ Latihan 3
 Kode Pemograman 
 
 Output Program 
+
+Latihan 4
+![alt image](https://github.com/isnanqw/Tugas-Pemograman-p6/blob/3be03c81741e776d0c6926892185e1951d228aa0/Foto/latihan%206.1.png)
+Kode Pemograman 
+
+Output Program 
